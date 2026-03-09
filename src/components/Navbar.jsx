@@ -5,6 +5,7 @@ const navLinks = [
   { label: 'Home', href: '#hero' },
   { label: 'Problem', href: '#problem' },
   { label: 'How It Works', href: '#solution' },
+  { label: 'Upload', href: '#upload' },
   { label: 'Roadmap', href: '#scope' },
 ];
 
@@ -39,7 +40,7 @@ export default function Navbar() {
             </svg>
           </div>
           <span className="text-lg font-bold text-white tracking-tight">
-            TrafficAI
+            Visiondrive
           </span>
         </a>
 

@@ -2,6 +2,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Problem from './components/Problem';
 import Solution from './components/Solution';
+import UploadAnalysis from './components/UploadAnalysis';
 import Scope from './components/Scope';
 import Footer from './components/Footer';
 
@@ -12,6 +13,7 @@ function App() {
       <Hero />
       <Problem />
       <Solution />
+      <UploadAnalysis />
       <Scope />
       <Footer />
     </div>
