@@ -14,7 +14,7 @@ export default function Footer() {
                   <circle cx="12" cy="12" r="3" />
                 </svg>
               </div>
-              <span className="text-lg font-bold text-white">TrafficAI</span>
+              <span className="text-lg font-bold text-white">Visiondrive</span>
             </div>
             <p className="text-sm text-gray-500 max-w-sm">
               AI-powered traffic sign detection system for real-time driver safety alerts.
@@ -62,7 +62,7 @@ export default function Footer() {
           transition={{ duration: 0.6 }}
           className="pt-8 border-t border-slate-800 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-gray-600"
         >
-          <span>&copy; {new Date().getFullYear()} TrafficAI. Built for safer roads.</span>
+          <span>&copy; {new Date().getFullYear()} Visiondrive. Built for safer roads.</span>
           <span>Machine Learning Capstone Project</span>
         </motion.div>
       </div>
